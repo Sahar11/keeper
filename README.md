@@ -1,6 +1,6 @@
 # Keeper App
 
-This app let users take notes for immediate use.
+Front-end app that lets users take notes for immediate use.
 
 ## Final Product
 
@@ -11,5 +11,6 @@ This app let users take notes for immediate use.
 # Dependencies
 
 - Reactjs
+- MaterialUI
 - HTML
 - CSS
